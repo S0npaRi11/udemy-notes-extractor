@@ -1,0 +1,56 @@
+Privacy Policy for Udemy-notes-extractor
+
+Effective Date: 19/05/2024
+
+1. Introduction
+
+Udemy-notes-extractor ("we", "our", "us") respects your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our Google Chrome extension.
+
+2. Information We Do Not Collect
+
+We do not collect, store, or share any personal information or data. This includes, but is not limited to:
+
+Personal identification information (e.g., name, email address)
+Usage data
+Browsing history
+IP addresses
+Cookies or tracking technologies
+Analytics data
+3. Permissions
+
+Our extension requires certain permissions to function correctly:
+
+ActiveTab: This permission allows our extension to interact with the currently active tab when you trigger an action. It is necessary for the core functionality of the extension and is not used to collect any data.
+Tabs: This permission is used to manage and interact with browser tabs as part of the extension's features. No data is collected or stored.
+Scripting: This permission allows the extension to inject scripts into web pages to perform its intended functions. These scripts do not collect any data.
+4. Usage of the Extension
+
+The primary purpose of Udemy-notes-extractor is to Extract the notes taken by udemy's notes functionality to various file formats. All operations are performed locally on your device and no data is transmitted to external servers.
+
+5. Third-Party Services
+
+Our extension does not use any third-party services that collect data. There are no analytics, advertising, or tracking tools integrated into the extension.
+
+6. Data Security
+
+Since we do not collect any personal data, we do not store any information that could be compromised. The extension operates entirely within the security context of your browser.
+
+7. Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. Any changes will be posted on this page, and we will update the "Effective Date" at the top of this Privacy Policy. We encourage you to review this Privacy Policy periodically for any changes.
+
+8. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+
+Email: paragmahale36@gmail.com
+Address: Sonchapha Colony, Dhule, Maharashtra, India
+9. Consent
+
+By using our extension, you hereby consent to our Privacy Policy and agree to its terms.
+
+Additional Notes:
+
+Customization: Replace placeholders like Udemy-notes-extractor, 19/05/2024, and contact details with your specific information.
+Distribution: Ensure that this privacy policy is easily accessible to users. Typically, it can be linked from the extension’s listing in the Chrome Web Store and from within the extension itself, such as in the options page or help section.
+This document outlines that the extension prioritizes user privacy by not collecting any data and explains the permissions used purely for the extension’s functionality.
